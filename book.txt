@@ -1,0 +1,123 @@
+<h3><a name="t0"></a><a name="t0"></a><a id="_0"></a>搞学习</h3>
+<ul>
+<li>大学资源网：http://www.dxzy163.com/</li>
+<li>北京大学公开课：http://opencourse.pku.edu.cn/course/opencourse2/</li>
+<li>大学自学网：http://m.v.dxsbb.com/</li>
+<li>问答网站：https://stackoverflow.com/ </li>
+<li>简易教程：https://www.twle.cn/ </li>
+<li>偶书：https://obook.cc/ </li>
+<li>牛客网：https://www.nowcoder.com/</li>
+<li>知乎：www.zhihu.com</li>
+<li>简答题：http://www.jiandati.com/</li>
+<li>网易公开课：https://open.163.com/ted/</li>
+<li>网易云课堂：https://study.163.com/</li>
+<li>中国大学MOOC：www.icourse163.org</li>
+<li>网易云课堂：study.163.com</li>
+<li>哔哩哔哩弹幕网：www.bilibili.com</li>
+<li>我要自学网：www.51zxw.net</li>
+<li>学堂在线：www.xuetangx.com</li>
+<li>爱课程：www.icourses.cn</li>
+<li>猫咪论文：https://lunwen.im/</li>
+<li>iData（论文搜索）：www.cn-ki.net</li>
+<li>文泉考试：https://www.wqkaoshi.com</li>
+<li>码农之家（计算机电子书下载）：www.xz577.com</li>
+<li>鸠摩搜书：www.jiumodiary.com</li>
+<li>云海电子图书馆：www.pdfbook.cn</li>
+<li>周读（书籍搜索）：ireadweek.com</li>
+<li>知轩藏书：http://www.zxcs.me/</li>
+<li>脚本之家电子书下载：https://www.jb51.net/books/</li>
+<li>搜书VIP-电子书搜索：http://www.soshuvip.com/all.html</li>
+</ul>
+<h3><a name="t1"></a><a name="t1"></a><a id="_22"></a>冷知识</h3>
+<ul>
+<li>星系观察：https://stellarium-web.org/</li>
+<li>煎蛋：http://jandan.net/</li>
+<li>渣男-说话的艺术：https://lovelive.tools/</li>
+<li>全历史：https://www.allhistory.com/</li>
+<li>iData：https://www.cn-ki.net/</li>
+<li>caj云阅读：http://cajviewer.cnki.net/cajcloud/</li>
+</ul>
+<h3><a name="t2"></a><a name="t2"></a><a id="_30"></a>工具集</h3>
+<ul>
+<li>偷渡鱼：https://touduyu.com/</li>
+<li>牛导航：http://www.ziliao6.com/</li>
+<li>小呆导航：https://www.webjike.com/index.html</li>
+<li>简法主页：http://www.jianfast.com/</li>
+<li>KIM主页：https://kim.plopco.com/</li>
+<li>聚BT：https://jubt.net/cn/index.html</li>
+<li>精准云工具合集：https://jingzhunyun.com/</li>
+<li>上班摸鱼必备（假装电脑系统升级）：http://fakeupdate.net/</li>
+<li>果核剥壳：https://www.ghpym.com/</li>
+<li>搜狗翻译：fanyi.sogou.com</li>
+<li>云盘精灵（资源搜索）：www.yunpanjingling.com</li>
+<li>虫部落（资源搜索）：www.chongbuluo.com</li>
+<li>熵数（图表制作，数据可视化）：https://dydata.io/appv2/#/pages/index/home</li>
+<li>爱资料工具（在线实用工具集合）：www.toolnb.com</li>
+<li>工具导航：https://hao.logosc.cn/</li>
+<li>在线转换器（在线转换器转换任何测量单位）：https://zh.justcnw.com/</li>
+<li>第一字体转换器：http://www.diyiziti.com/</li>
+<li>兔2工具合集：https://www.tool2.cn/</li>
+<li>DogeDoge搜索引擎：www.dogedoge.com</li>
+<li>调查问卷制作：https://www.wenjuan.com/</li>
+<li>软件下载：https://www.unyoo.com/</li>
+<li>MSDN我告诉你：https://msdn.itellyou.cn/</li>
+<li>如风搜（资源搜索）：http://www.rufengso.net/</li>
+<li>幕布（在线大纲笔记工具）：mubu.com</li>
+<li>奶牛快传（在线传输文件利器）：cowtransfer.com</li>
+<li>爱扒：https://www.zyboe.com/</li>
+</ul>
+<h3><a name="t3"></a><a name="t3"></a><a id="_58"></a>看视频</h3>
+<ul>
+<li>动漫视频网：http://www.zzzfun.com/</li>
+<li>94神马电影网：http://www.9rmb.com/</li>
+<li>NO视频官网：http://www.novipnoad.com/</li>
+<li>蓝光画质电影：http://www.languang.co/</li>
+<li>在线看剧：http://dy.27234.cn/</li>
+<li>大数据导航：http://hao.199it.com/</li>
+<li>多功能图片网站：https://www.logosc.cn/so/</li>
+<li>牛牛TV：http://www.ziliao6.com/tv/</li>
+<li>VideoFk解析视频：http://www.videofk.com/</li>
+</ul>
+<h3><a name="t4"></a><a name="t4"></a><a id="_69"></a>学设计</h3>
+<ul>
+<li>doyoudosh（平面设计）：www.doyoudo.com</li>
+<li>企业宣传视频在线制作：https://duomu.tv/</li>
+<li>MAKE海报设计官网：http://maka.im/</li>
+<li>一键海报神器：https://www.logosc.cn/photo/?utm_source=hao.logosc.cn&amp;utm_medium=referral</li>
+<li>字由（字体设计）：http://www.hellofont.cn/</li>
+<li>查字体网站：https://fonts.safe.360.cn/</li>
+<li>爱给网（免费素材下载的网站，包括音效、配乐，3D、视频、游戏，平面、教程）：http://www.aigei.com/</li>
+<li>在线视频剪辑：https://bilibili.clipchamp.com/editor</li>
+</ul>
+<h3><a name="t5"></a><a name="t5"></a><a id="_79"></a>搞文档</h3>
+<ul>
+<li>即书（在线制作PPT）：https://www.keysuper.com/</li>
+<li>PDF处理：https://smallpdf.com/cn</li>
+<li>PDF处理：https://www.ilovepdf.com/zh-cn</li>
+<li>PDF处理： https://www.pdfpai.com/</li>
+<li>PDF处理：https://www.hipdf.cn/</li>
+<li>腾讯文档（在线协作编辑和管理文档）：docs.qq.com</li>
+<li>ProcessOn（在线协作制作结构图）：www.processon.com</li>
+<li>iLovePDF（在线转换PDF利器）：www.ilovepdf.com</li>
+<li>PPT在线制作：https://www.woodo.cn/</li>
+<li>PDF24工具（pdf处理工具）：https://tools.pdf24.org/en</li>
+<li>IMGBOT（在线图片处理）：www.imgbot.ai</li>
+<li>福昕云编辑（在线编辑PDF）：edit.foxitcloud.cn</li>
+<li>TinyPNG（在线压缩图片）：tinypng.com</li>
+<li>UZER.ME（在线使用各种大应用，在线使用CAD，MATLAB，Office三件套<br>
+）：uzer.me</li>
+<li>优品PPT（模板下载）：http://www.ypppt.com/</li>
+<li>第一PPT（模板下载）：http://www.1ppt.com/xiazai/</li>
+<li>三顿PPT导航：https://sandunppt.com/</li>
+</ul>
+<h3><a name="t6"></a><a name="t6"></a><a id="_99"></a>找图片</h3>
+<ul>
+<li>unsplash： https://unsplash.com/</li>
+<li>pixabay： https://pixabay.com/</li>
+<li>pexels： https://www.pexels.com/</li>
+<li>visualhunt： https://visualhunt.com/</li>
+<li>ssyer： https://www.ssyer.com/</li>
+<li>彼岸图网：http://pic.netbian.com/</li>
+<li>极像素（超高清大图）：https://www.sigoo.com/</li>
+<li>免费版权图片搜索：https://www.logosc.cn/so/</li>
+</ul>
